@@ -59,7 +59,7 @@
     "@babel/template": "^7.16.7",
     "autoprefixer": "^10.2.5",
     "babel-plugin-macros": "^3.1.0",
-    "chalk": "^4.1.0",
+    "chalk": "^5.0.1",
     "clean-set": "^1.1.1",
     "color": "^4.2.0",
     "dset": "^2.0.1",
